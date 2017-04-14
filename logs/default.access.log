@@ -1,0 +1,2 @@
+172.18.0.1 - - [14/Apr/2017:11:08:34 +0000] "GET / HTTP/1.1" 200 472 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36 OPR/44.0.2510.1218" "-"
+172.18.0.1 - - [14/Apr/2017:11:08:34 +0000] "GET /favicon.ico HTTP/1.1" 404 193 "http://web.istudent.loc/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36 OPR/44.0.2510.1218" "-"

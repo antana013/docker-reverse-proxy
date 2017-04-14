@@ -1,3 +1,0 @@
-2017/04/14 11:08:34 [notice] 200#0: *1 "^(GET|HEAD|POST|PUT|PATCH|DELETE)$" matches "GET", client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", host: "web.istudent.loc"
-2017/04/14 11:08:34 [notice] 200#0: *1 "^(GET|HEAD|POST|PUT|PATCH|DELETE)$" matches "GET", client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", host: "web.istudent.loc"
-2017/04/14 11:08:34 [notice] 200#0: *1 "^(GET|HEAD|POST|PUT|PATCH|DELETE)$" matches "GET", client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "web.istudent.loc", referrer: "http://web.istudent.loc/"

@@ -1,0 +1,9 @@
+reverse-proxy:
+  container_name: reverse-proxy
+  image: smebberson/alpine-nginx
+  ports:
+    - "80:80"
+  restart: always
+  volumes:
+    - "./conf.d:/etc/nginx/conf.d"
+    - "./logs:/var/log/nginx"
